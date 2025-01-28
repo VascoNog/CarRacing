@@ -1,0 +1,14 @@
+D:\ReStart_Pessoal\CarRacing.app\bin\Debug\net8.0\CarRacing.app.exe
+D:\ReStart_Pessoal\CarRacing.app\bin\Debug\net8.0\CarRacing.app.deps.json
+D:\ReStart_Pessoal\CarRacing.app\bin\Debug\net8.0\CarRacing.app.runtimeconfig.json
+D:\ReStart_Pessoal\CarRacing.app\bin\Debug\net8.0\CarRacing.app.dll
+D:\ReStart_Pessoal\CarRacing.app\bin\Debug\net8.0\CarRacing.app.pdb
+D:\ReStart_Pessoal\CarRacing.app\obj\Debug\net8.0\CarRacing.app.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReStart_Pessoal\CarRacing.app\obj\Debug\net8.0\CarRacing.app.AssemblyInfoInputs.cache
+D:\ReStart_Pessoal\CarRacing.app\obj\Debug\net8.0\CarRacing.app.AssemblyInfo.cs
+D:\ReStart_Pessoal\CarRacing.app\obj\Debug\net8.0\CarRacing.app.csproj.CoreCompileInputs.cache
+D:\ReStart_Pessoal\CarRacing.app\obj\Debug\net8.0\CarRacing.app.dll
+D:\ReStart_Pessoal\CarRacing.app\obj\Debug\net8.0\refint\CarRacing.app.dll
+D:\ReStart_Pessoal\CarRacing.app\obj\Debug\net8.0\CarRacing.app.pdb
+D:\ReStart_Pessoal\CarRacing.app\obj\Debug\net8.0\CarRacing.app.genruntimeconfig.cache
+D:\ReStart_Pessoal\CarRacing.app\obj\Debug\net8.0\ref\CarRacing.app.dll
